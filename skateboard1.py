@@ -3,23 +3,6 @@ Python 2.7.3(
 Type "copyright", "credits"
 or "license()"
 for more information. >>> Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist@ MFarag99
-Sign out
-Watch 0
-Star 0
-Fork 15 MFarag99 / skateboard
-forked from the - raspberry - pi - guy / skateboard
-Code Pull requests 0 Projects 0 Wiki Pulse Graphs Settings
-Branch: master Find file Copy pathskateboard / skateboard.py
-c5a90c0 on Dec 27, 2016@ the - raspberry - pi - guy the - raspberry - pi - guy Update skateboard.py to have final wiimote watching thread
-1 contributor
-RawBlameHistory
-203 lines(174 sloc) 5.07 KB# skateboard.py# DIY Electric Skateboard# Created by Matthew Timmons - Brown, The Raspberry Pi Guy# Simon Beal assisted with the development of this program -
-    if I die, it is his fault.
 
 import pigpio
 import time
